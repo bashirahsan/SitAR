@@ -13,7 +13,7 @@ The extensive report on SitAR can be found at: https://drive.google.com/file/d/1
 
 The report includes the following artifacts,
 
-Literature Survey
-System Architecture
-Work Flow
-Implementation Details
+1. Literature Survey
+2. System Architecture
+3. Work Flow
+4. Implementation Details
